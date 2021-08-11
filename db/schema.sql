@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS Department;
+DROP TABLE IF EXISTS Role;
+DROP TABLE IF EXISTS Employee;
+
+CREATE TABLE Department();
+
+CREATE TABLE Role();
+
+CREATE TABLE Employee();
