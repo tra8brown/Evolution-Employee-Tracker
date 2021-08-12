@@ -4,6 +4,19 @@ const express = require('express');
 const PORT = process.env.PORT || 3001;
 const app = express();
 
+let connection = mysql.createConnection({
+        host: 'localhost',
+        port: 3301,
+        user: 'root',
+        password: '',
+        database: 'employee_db'
+    },
+    console.log('Connected to employee_db.')
+);
+
+connection.connect();
+
+module.exports = connection;
 
 // middleware goes here???
 
