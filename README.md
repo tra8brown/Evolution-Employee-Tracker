@@ -3,7 +3,7 @@
 * I've created a video of the typical user flow of the application.
 
 __walkthrough video__
-![walkthrough video](gif.webm)
+![walkthrough video](demo.gif)
 https://drive.google.com/file/d/1na7Y-nbacOxwqSRE-OEFaZmYNDGpLKiB/view
 
 <h1 align="center">Hi 👋, I'm Tracee</h1>
